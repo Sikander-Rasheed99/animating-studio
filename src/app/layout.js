@@ -22,7 +22,7 @@ export const metadata = {
         type: 'website',
     },
     // ====================
-    robots: "noindex, nofollow",
+    robots: "noindex, nofollow"
 }
 
 export default function RootLayout({ children }) {
